@@ -20,20 +20,18 @@ Hi, I'm **Sejal Saharkar** 👋
 
 📫 Reach me at **sejalsaharkar24@gmail.com**
 
----
+
 
 # 💻 Tech Stack:
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript,cs,react,html,css,tailwind,dotnet,postgres,mysql,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=java,javascript,react,html,css,tailwind,dotnet,postgres,mysql,git,github,postman,vscode" />
 </p>
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sejalsaharkar23&show_icons=true&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sejalsaharkar23&theme=github_dark" />
 </p>
-
----
 
 ## 🔥 GitHub Streak:
 
@@ -41,15 +39,13 @@ Hi, I'm **Sejal Saharkar** 👋
   <img src="https://streak-stats.demolab.com?user=sejalsaharkar23&theme=dark&hide_border=true" />
 </p>
 
----
+
 
 ## 💻 Most Used Languages:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejalsaharkar23&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sejalsaharkar23&theme=github_dark" />
 </p>
-
----
 
 ## ✍️ Random Dev Quote:
 
@@ -57,14 +53,3 @@ Hi, I'm **Sejal Saharkar** 👋
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
-## 📫 Connect With Me
-
-💼 [LinkedIn](https://linkedin.com/in/sejalsaharkar)
-
-📧 [Email](mailto:sejalsaharkar24@gmail.com)
-
-🐙 [GitHub](https://github.com/sejalsaharkar23)
-
----
-
-⭐️ From [Sejal Saharkar](https://github.com/sejalsaharkar23)
