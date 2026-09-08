@@ -112,11 +112,27 @@ IIIT Hyderabad (2024–2025)
 
 ## 📊 GitHub Stats
 
-![Sejal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sejalsaharkar23&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sejalsaharkar23&show_icons=true&theme=dark&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sejalsaharkar23&layout=compact)
+## 🔥 GitHub Streak
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sejalsaharkar23&theme=dark&hide_border=true" />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejalsaharkar23&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 ## 📫 Connect With Me
 
