@@ -54,61 +54,7 @@ Arduino • Machine Learning
 
 ---
 
-## 🚀 Featured Projects
 
-### 🌊 Flood Sense 5G
-
-IoT-based flood monitoring and prediction system.
-
-**Tech:** Arduino • Ultrasonic Sensor • Rain Sensor • React.js • Firebase •
-JavaScript • Machine Learning
-
-- 📡 Real-time flood monitoring
-- 🤖 ML-based flood prediction
-- 📊 Responsive data visualization dashboard
-- 📱 Telegram alerts for early warnings
-- 🏆 3rd Prize at VNIT Nagpur 5G School
-
----
-
-### 🏋️ Willovate Gym SaaS
-
-Gym Management SaaS platform developed using modern full-stack technologies.
-
-**Tech:** React • TypeScript • Tailwind CSS • ASP.NET Core • PostgreSQL • REST APIs
-
-- 👥 Member management
-- 💳 Payment management
-- 🏋️ Equipment & workout management
-- 📅 Attendance management
-- 🔍 Search, filtering and pagination
-- 🔄 REST API integration
-
----
-
-### 🛒 E-Commerce Website
-
-Flipkart-inspired e-commerce web application.
-
-**Tech:** React.js • JavaScript • HTML • CSS • ASP.NET Core Web API • PostgreSQL
-
-- 🔎 Product search
-- 🏷️ Product filtering & sorting
-- 🛍️ Shopping cart
-- 💰 Pricing & coupon management
-- 💾 Local Storage
-- 🔗 REST API & PostgreSQL integration
-
----
-
-## 🏆 Achievements & Certifications
-
-🏆 **3rd Prize** – 5G Summer School, VNIT Nagpur (2025)
-
-📜 **College Research Affiliate Program Certificate** – Internet of Things,
-IIIT Hyderabad (2024–2025)
-
----
 
 ## 📊 GitHub Stats
 
@@ -124,8 +70,11 @@ IIIT Hyderabad (2024–2025)
 
 ## 💻 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejalsaharkar23&layout=compact&theme=dark&hide_border=true" />
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejalsaharkar23&layout=compact&theme=dark&hide_border=true&langs_count=5&card_width=350"
+    alt="Most Used Languages"
+  />
 </p>
 
 ## ✍️ Random Dev Quote
