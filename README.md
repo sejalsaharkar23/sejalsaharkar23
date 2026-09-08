@@ -1,85 +1,59 @@
-# 👋 Hi, I'm Sejal Saharkar
+# 👋 About Me:
 
-### 💻 Software Developer | Full Stack Developer | React.js | .NET
+Hi, I'm **Sejal Saharkar** 👋
 
-I'm a B.Tech student in **Industrial Internet of Things (IIoT)** with a strong
-interest in full-stack web development and building real-world applications.
+💻 Software Developer with an interest in Full Stack Web Development and building real-world applications.
 
-- 🔭 Currently working on Full Stack Web Development
-- 🌱 Learning and improving my skills in React.js, TypeScript and .NET
-- 💡 Interested in building responsive and scalable web applications
-- 🤝 Experienced with Git, GitHub and team collaboration
-- 📍 Nagpur, Maharashtra, India
+🔭 Currently working with **React.js, TypeScript, ASP.NET Core and REST APIs**
 
----
+🌱 Continuously learning modern web development and backend technologies
 
-## 👩‍💻 About Me
+🛠️ Tech I work with: **Java, JavaScript, TypeScript, C#, React.js, HTML, CSS, Tailwind CSS, ASP.NET Core, PostgreSQL, MySQL**
 
-🎓 B.Tech in Industrial Internet of Things at St. Vincent Pallotti College of
-Engineering and Technology
+🎓 B.Tech in **Industrial Internet of Things (IIOT)** from St. Vincent Pallotti College of Engineering and Technology, Nagpur
 
-💼 Software Developer Intern at Willovate Pvt. Ltd.
+🚀 Some of my work: **Flood Sense 5G, Willovate Gym SaaS, E-Commerce Website**
 
-🚀 Developed frontend applications using React.js, TypeScript and Tailwind CSS
+🏆 **3rd Prize – 5G Summer School, VNIT Nagpur**
 
-⚙️ Developed backend APIs using ASP.NET Core and C#
+📜 **College Research Affiliate Program – Internet of Things, IIIT Hyderabad**
 
-🗄️ Worked with PostgreSQL, MySQL and REST APIs
-
-🏆 3rd Prize – 5G Summer School at VNIT Nagpur
-
-🔬 College Research Affiliate Program – Internet of Things, IIIT Hyderabad
+📫 Reach me at **sejalsaharkar24@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack:
 
-### 💻 Programming Languages
-Java • JavaScript • TypeScript • C# • SQL
+<p>
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,cs,react,html,css,tailwind,dotnet,postgres,mysql,git,github,postman,vscode" />
+</p>
+## 📊 GitHub Stats:
 
-### 🌐 Frontend
-HTML • CSS • React.js • TypeScript • Tailwind CSS
-
-### ⚙️ Backend
-ASP.NET Core • .NET • REST APIs • Node.js
-
-### 🗄️ Database
-PostgreSQL • MySQL • Firebase
-
-### 🔧 Tools
-Git • GitHub • Postman • VS Code
-
-### 🤖 IoT & Other
-Arduino • Machine Learning
-
----
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sejalsaharkar23&show_icons=true&theme=dark&hide_border=true" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sejalsaharkar23&show_icons=true&theme=dark" />
 </p>
 
-## 🔥 GitHub Streak
+---
 
-<p align="center">
+## 🔥 GitHub Streak:
+
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=sejalsaharkar23&theme=dark&hide_border=true" />
 </p>
 
-## 💻 Most Used Languages
+---
+
+## 💻 Most Used Languages:
 
 <p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejalsaharkar23&layout=compact&theme=dark&hide_border=true&langs_count=5&card_width=350"
-    alt="Most Used Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejalsaharkar23&layout=compact&theme=dark&hide_border=true" />
 </p>
 
-## ✍️ Random Dev Quote
+---
 
-<p align="center">
+## ✍️ Random Dev Quote:
+
+<p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
